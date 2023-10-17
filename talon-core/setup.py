@@ -17,8 +17,6 @@ setup(name='talon-core',
       install_requires=[
           "lxml",
           "regex",
-          "chardet",
-          "cchardet",
           "cssselect",
           "six",
           "html5lib",
